@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85773530785",
+    "project_id": "wokescroll",
+    "storage_bucket": "wokescroll.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85773530785:android:c4b0b18817be28922822e0",
+        "android_client_info": {
+          "package_name": "com.example.fake_news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Hy0l9cxE6Hmx45NCawDLcl6vtw7UfBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
